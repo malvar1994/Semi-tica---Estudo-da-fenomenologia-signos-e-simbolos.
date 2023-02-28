@@ -1,4 +1,4 @@
-# Semiótica---Estudo-da-fenomenologia-signos-e-simbolos.
+# Semiótica---Estudo-da-fenomenologia-signos-e-símbolos.
 
 
 Este seminário realizado na faculdade, com relação a semiótica, onde trago a importância das fronteiras tecnológicas, as simbologias representativas e a experiência  de usuário atraves dos signos e do sentido.
